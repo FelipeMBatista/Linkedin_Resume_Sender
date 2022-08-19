@@ -2,7 +2,6 @@ from time import sleep
 import selenium
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import *
 
 job_url = "https://www.linkedin.com/jobs/search/?currentJobId=3179371991&f_AL=true&f_E=3&f_WT=2&geoId=106057199&keywords=Python&location=Brasil&refresh=true&sortBy=R"
 email = "profissional.felipemb@gmail.com"
